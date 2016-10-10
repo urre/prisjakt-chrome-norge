@@ -10,7 +10,7 @@ var prisjaktChromeNorge = {
 
     chrome.runtime.onInstalled.addListener(function() {
       var context = "selection";
-      var title = "Sök ”%s” på Prisjakt";
+      var title = "Søk ”%s” på Prisjakt";
       var id = chrome.contextMenus.create({
         "title": title,
         "contexts": [context],
