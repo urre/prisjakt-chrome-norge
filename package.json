@@ -1,0 +1,17 @@
+{
+  "name": "prosjakt-chrome-norge",
+  "title": "ChrSøk merket tekst Prisjakt.no",
+  "url": "https://github.com/urre/prisjakt-chrome-norge",
+  "author": "Urban Sanden",
+  "version": "1.1.0",
+  "private": true,
+  "dependencies": {
+    "browser-sync": "*",
+    "gulp": "*",
+    "gulp-vinyl-zip": "^1.1.2",
+    "require-dir": "*"
+  },
+  "devDependencies": {
+    "gulp-zip": "^3.0.2"
+  }
+}
