@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Prisjakt Chrome Norge",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Søk merket tekst på Prisjakt.no (Norwegian version of Prisjakt Chrome)",
   "author": "Urban Sanden",
   "permissions": ["contextMenus"],
