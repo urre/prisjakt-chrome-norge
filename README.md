@@ -14,7 +14,7 @@ Norwegian version of [Prisjakt Chrome](https://github.com/urre/prisjakt-chrome).
 
 + In Chrome. Open Extensions. Window -> Extensions (Fönster -> tillägg). Or goto this url in the Chrome address bar ``open chrome://extensions/``
 + Click +Developer mode
-+ Click Load unpacked extension… 
++ Click Load unpacked extension…
 + Navigate to the ``prisjakt-chrome-norge`` folder, where you saved it
 + Enjoy!
 
@@ -25,6 +25,9 @@ Norwegian version of [Prisjakt Chrome](https://github.com/urre/prisjakt-chrome).
 3. Choose "Søk merket tekst på Prisjakt"
 
 ## Changelog
+
+#### 2019-05-27
+Updated to use the new version of Prisjakt
 
 #### 2016-10-10
 First version released

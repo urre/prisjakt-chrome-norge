@@ -27,7 +27,7 @@ var prisjaktChromeNorge = {
 
   openPrisjakt: function(phrase) {
     var encodedQuery = encodeURIComponent(phrase);
-    var url = "http://www.prisjakt.no/#rparams=ss=" + encodedQuery;
+    var url = "https://www.prisjakt.no/search?search=" + encodedQuery;
     window.open(url, '_blank');
   }
 
